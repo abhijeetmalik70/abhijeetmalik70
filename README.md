@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on learning java 
 - 📫 How to reach me Phone : 15753310466, email : abhijeetmalik70@gmail.com
 - 😄 Pronouns: Abhi
-- ⚡ Fun fact: i´m so social
+
 
 <!---
 abhijeetmalik70/abhijeetmalik70 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
