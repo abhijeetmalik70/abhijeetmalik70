@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on learning java 
 - 📫 How to reach me Phone : 15753310466, email : abhijeetmalik70@gmail.com
-- 😄 Pronouns: Abhi
+
 
 
 <!---
